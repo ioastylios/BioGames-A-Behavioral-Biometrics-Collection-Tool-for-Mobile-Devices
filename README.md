@@ -1,4 +1,4 @@
-# BioGames-A-Behavioral-Biometrics-Collection-Tool-for-Mobile-Devices
+# BioGames: A Behavioral Biometrics Collection Tool for Mobile Devices
 
 # 1	Introduction
 One major challenge for behavioral biometrics and Continuous Authentication research is the lack of actual behavioral biometrics datasets for research purposes. 
