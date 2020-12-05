@@ -56,5 +56,6 @@ A software system must be sustainable and scalable. Knowing the types of expecte
 The project was developed in Android Studio. To use the source code of the program, as well as for compiling and redistributing, developers who may be extending the code should use the latest version of Android Studio with the latest version of the Android SDK installed.
 
 
+# Cite
 
-
+Ioannis Stylios, Spyros Kokolakis, Andreas Skalkos, Sotirios Chatzis. BioGames: A Behavioral Biometrics Collection Tool for Mobile Devices. 
