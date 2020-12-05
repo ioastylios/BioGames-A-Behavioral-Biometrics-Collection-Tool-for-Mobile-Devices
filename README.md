@@ -1,10 +1,5 @@
 # BioGames-A-Behavioral-Biometrics-Collection-Tool-for-Mobile-Devices
 
-
-Ioannis Stylios1, Spyros Kokolakis1, Andreas Skalkos1, Sotirios Chatzis2
-1Dept. of ICSE, University of the Aegean, Greece 
-2Dept. of EECEI, Cyprus University of Technology, Cyprus 
-
 # 1	Introduction
 One major challenge for behavioral biometrics and Continuous Authentication research is the lack of actual behavioral biometrics datasets for research purposes. 
 This document contains and defines the requirements, specifications and how the Android application called "BioGames" has been developed. The purpose of this document is to present the use of the application, so that it can be studied and extended by others.
