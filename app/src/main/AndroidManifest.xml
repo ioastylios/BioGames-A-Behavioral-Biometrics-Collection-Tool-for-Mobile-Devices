@@ -19,37 +19,58 @@
         android:theme="@style/Theme">
         <activity android:name=".TouchAndTapGame"
             android:label="@string/app_title"
+            android:screenOrientation="portrait"
+            android:configChanges="orientation"
             ></activity>
         <activity android:name=".WalkGamesActivity"
             android:label="@string/app_title"
+            android:screenOrientation="portrait"
+            android:configChanges="orientation"
             />
         <activity android:name=".Walk"
             android:label="@string/app_title"
+            android:screenOrientation="portrait"
+            android:configChanges="orientation"
             />
         <activity android:name=".Touch"
             android:label="@string/app_title"
+            android:screenOrientation="portrait"
+            android:configChanges="orientation"
             />
         <activity android:name=".Game4Activity"
             android:label="@string/app_title"
+            android:screenOrientation="portrait"
+            android:configChanges="orientation"
             />
         <activity android:name=".Game3Activity"
             android:label="@string/app_title"
+            android:screenOrientation="portrait"
+            android:configChanges="orientation"
             />
         <activity android:name=".Game2Activity"
             android:label="@string/app_title"
+            android:screenOrientation="portrait"
+            android:configChanges="orientation"
             />
         <activity android:name=".Keystroke"
             android:label="@string/app_title"
+            android:screenOrientation="portrait"
+            android:configChanges="orientation"
             />
         <activity android:name=".KeystrokeQuizActivity"
             android:label="@string/app_title"
+            android:screenOrientation="portrait"
+            android:configChanges="orientation"
             />
         <activity android:name=".Game1Activity"
             android:label="@string/app_title"
+            android:screenOrientation="portrait"
+            android:configChanges="orientation"
             />
         <activity android:name=".MainActivity"
-            android:configChanges="orientation|screenSize"
             android:label="@string/app_title">
+            android:screenOrientation="portrait"
+            android:configChanges="orientation"   
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
